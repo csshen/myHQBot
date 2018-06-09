@@ -27,5 +27,6 @@ This script requires you to mirror your iPhone to your computer (Unix/Mac suppor
 Performance is highly dependent on internet connection.  The python script is slower and needs more optimization.  This is due to the fact that BeautifulSoup creates a parse tree on the entire HTML text, which is very computationally expensive and not entirely necessary.  
 
 ## Preview
-![](tests/test0.png) ![](commandline.png)
-![](tests/test0ans.png)
+![](tests/test0.png) ![](tests/test0ans.png)
+![](commandline.png)
+
